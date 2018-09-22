@@ -2,4 +2,4 @@
 
 A simple tip calculator
 
-![Screenshot](images/tipC.mp4)
+![](images/tipC.gif)
